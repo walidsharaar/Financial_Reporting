@@ -28,3 +28,6 @@ Before planning anything in Power BI we have to get information about our tables
  
  ![2](https://user-images.githubusercontent.com/29350894/169024825-c7f7bd8c-122c-49bc-82c3-395500c9e666.png)
 
+## For more detail information:
+
+https://github.com/walidsharaar/Financial_Reporting/blob/main/Notes
