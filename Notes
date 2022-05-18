@@ -2,9 +2,20 @@
 
 Always try to find the fact and dimension or any other supporting tables before starting the project. In the dataset the following tables are included:
 
-1. fact : Sales order, Company expenses, Balance data, Cash flow data, Transction data
-2. dimension: Customers, Regions, Products
-3. supporting: IS template, BS template, CF template
+1. fact : 
+        Sales order --> Sales, 
+        Company expenses --> Company Expenses, 
+        Balance data --> Balance Sheet Data, 
+        Cash flow data --> Cash Flow, 
+        Transction data --> Transcations
+2. dimension: 
+        Customers --> Customer, 
+        Regions --> Regions, 
+        Products --> Products
+3. supporting: 
+        IS template --> Income Statement Template, 
+        BS template --> Balance Sheet Template, 
+        CF template --> Cash flow Template
 
 
 ## for overview of the project:
