@@ -5,3 +5,8 @@ Always try to find the fact and dimension or any other supporting tables before 
 1. fact : Sales order, Company expenses, Balance data, Cash flow data, Transction data
 2. dimension: Customers, Regions, Products
 3. supporting: IS template, BS template, CF template
+
+
+## for overview of the project:
+
+https://github.com/walidsharaar/Financial_Reporting#readme
