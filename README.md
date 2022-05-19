@@ -24,7 +24,7 @@ Learn how to;
 ## Data Model :
 Before planning anything in Power BI we have to get information about our tables in detail to model our data.  What are the main tables? What are lookup tables?
 
-![1](https://user-images.githubusercontent.com/29350894/169063834-6eb6ed14-b14f-459d-b5a6-82253870cfb6.png)
+![1](https://user-images.githubusercontent.com/29350894/169387550-b0840eae-c8a2-4273-a612-3f490e2798bb.png)
 
 
 ## For more detail information:
