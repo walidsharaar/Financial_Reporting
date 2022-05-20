@@ -17,6 +17,21 @@ Always try to find the fact and dimension or any other supporting tables before 
         BS template --> Balance Sheet Template, 
         CF template --> Cash flow Template
 
+# DAX
+
+It plays an important role for data modeling and reporting that is an inbuilt function provided in the DAX language that helps us to perform commonly used data calculation 
+on the Data Model.
+- DAX is stands  for Data Analysis Expressions
+- It is a formula language and is a collection of functions, operators and constants that can be used in a formula or expression to calculate and return one or more values.
+
+# DAX Syntax
+- Function name is given in uppercase letters
+- Function name is followed by opening parenthesis
+- Each parameter follow DAX paremeter and enclosed in angle brackets
+- The parameter is aparted by commas
+- The function syntax ends with closing parenthesis.
+
+
 
 ## for overview of the project:
 
