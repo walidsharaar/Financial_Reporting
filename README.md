@@ -9,7 +9,7 @@ Reviewed in detail how to produce high-quality reports that showcase financial i
 5. Aged Trial Balance
 6. Revenue Insight
 
-Learn how to;
+Learn how to:
 
 - **Use** advanced modeling and formula techniques
 - **Use** unique ideas to visualize financial reporting information
@@ -24,6 +24,8 @@ Learn how to;
 ## Data Model :
 Before planning anything in Power BI we have to get information about our tables in detail to model our data.  What are the main tables? What are lookup tables?
 
+![1](https://user-images.githubusercontent.com/29350894/169387550-b0840eae-c8a2-4273-a612-3f490e2798bb.png)
+
 ## Dashboard screenshots
 
 ### Income Statement
@@ -35,12 +37,19 @@ Before planning anything in Power BI we have to get information about our tables
 ### Balance Sheet
 ![3-Balance Sheet](https://user-images.githubusercontent.com/29350894/169588889-27470642-45c3-429d-93c7-a8f058fcefe4.png)
 
+### Cash flow
+![4-  Cash flow](https://user-images.githubusercontent.com/29350894/169589094-cf6fd176-475b-4fe0-8c9e-6634ff72efe1.png)
+
+
+### Aged Trail Balance
+![5- Aged Trail Balance](https://user-images.githubusercontent.com/29350894/169589111-66062ae0-3abb-456a-a3ec-d83340ece51a.png)
+
+
+### Revenue
+![6- Revenue ](https://user-images.githubusercontent.com/29350894/169589130-b6e467e1-1cd9-459b-9777-a77539b71283.png)
 
 
 
-
-
-![1](https://user-images.githubusercontent.com/29350894/169387550-b0840eae-c8a2-4273-a612-3f490e2798bb.png)
 
 
 ## For more detail information:
