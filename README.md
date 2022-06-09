@@ -28,25 +28,28 @@ Before planning anything in Power BI we have to get information about our tables
 
 ## Dashboard screenshots
 
+### Menu
+![Menu](https://user-images.githubusercontent.com/29350894/172861832-aaa3a176-8522-4aa9-9cb4-7b396724a0d4.png)
+
 ### Income Statement
-![1- Income Statement](https://user-images.githubusercontent.com/29350894/169588708-6524f4b1-19b6-48c6-a856-058fb94d0d44.png)
+![Income Statement](https://user-images.githubusercontent.com/29350894/172861873-aa669251-0df7-4b7b-9090-179c9b486266.png)
 
 ### Finance Details
-![2- Finance details](https://user-images.githubusercontent.com/29350894/169588771-e3e6d80c-df5f-45c9-8074-6fd32f7cb9e4.png)
+![Financial Details](https://user-images.githubusercontent.com/29350894/172861928-61d2df89-51ef-4663-9083-bfa3c13221c5.png)
 
 ### Balance Sheet
-![3-Balance Sheet](https://user-images.githubusercontent.com/29350894/169588889-27470642-45c3-429d-93c7-a8f058fcefe4.png)
+![Balance Sheet](https://user-images.githubusercontent.com/29350894/172861977-532e0756-fecd-4ee4-ac4c-c599ebc9f1fe.png)
 
 ### Cash flow
-![4-  Cash flow](https://user-images.githubusercontent.com/29350894/169589094-cf6fd176-475b-4fe0-8c9e-6634ff72efe1.png)
+![Cash Flow Statement](https://user-images.githubusercontent.com/29350894/172862010-c0799fb0-2a4d-453e-ae28-b6b2a46d60ba.png)
 
 
 ### Aged Trail Balance
-![5- Aged Trail Balance](https://user-images.githubusercontent.com/29350894/169589111-66062ae0-3abb-456a-a3ec-d83340ece51a.png)
+![Aged Trial Balance](https://user-images.githubusercontent.com/29350894/172862051-a99827fe-7816-4ab0-ae2e-bed92aea11dc.png)
 
 
 ### Revenue
-![6- Revenue ](https://user-images.githubusercontent.com/29350894/169589130-b6e467e1-1cd9-459b-9777-a77539b71283.png)
+![Revenue Insight](https://user-images.githubusercontent.com/29350894/172862077-583702da-3ed6-4152-97b0-2a669ea5db3f.png)
 
 
 
